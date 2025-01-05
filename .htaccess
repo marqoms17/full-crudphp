@@ -1,0 +1,5 @@
+#menyembunyikan list / file direktori
+Options -Indexes
+
+#menyembunyikan signsture atau tanda server
+ServerSignature Off
