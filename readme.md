@@ -3,6 +3,7 @@
 * Database : MYSQL/MariaDB
 * Framework: Bootstrap 5
 
+#user list
 USER : admin
 PASSWORD : 123456
 
